@@ -1,20 +1,20 @@
-# 🎨 Protótipo de Identidade Visual – Banco Itaú (Figma)
+# 🎨 Protótipo Conceitual de Identidade Visual – Banco Itaú (Figma)
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-concluído-black?style=for-the-badge" alt="Status do Projeto">
-  <img src="https://img.shields.io/badge/vers%C3%A3o-final-blue?style=for-the-badge" alt="Versão">
+  <img src="https://img.shields.io/badge/vers%C3%A3o-protótipo-blue?style=for-the-badge" alt="Versão">
 </p>
 
 ## 📌 Índice
 
 - [Sobre o Projeto](#-sobre-o-projeto)
 - [Protótipos Desenvolvidos](#-protótipos-desenvolvidos)
-  - [Protótipo 1: Redesign da Logomarca](#protótipo-1-redesign-da-logomarca)
-  - [Protótipo 2: Tela Inicial do App](#protótipo-2-tela-inicial-do-app)
+  - [Protótipo 1: Logomarca Conceitual](#protótipo-1-logomarca-conceitual)
+  - [Protótipo 2: Tela Inicial (App)](#protótipo-2-tela-inicial-app)
   - [Protótipo 3: Interface de Transações](#protótipo-3-interface-de-transações)
-  - [Sprint Final: Apresentação Interativa no Figma](#sprint-final-apresentação-interativa-no-figma)
+  - [Sprint Final: Apresentação Navegável](#sprint-final-apresentação-navegável)
 - [Ferramentas Utilizadas](#-ferramentas-utilizadas)
-- [Screenshots dos Protótipos](#-screenshots-dos-protótipos)
+- [Capturas de Tela](#-capturas-de-tela)
 - [Conclusão](#-conclusão)
 - [Como Contribuir](#-como-contribuir)
 
@@ -22,37 +22,35 @@
 
 ## 🧠 Sobre o Projeto
 
-Este projeto tem como objetivo o desenvolvimento de um **protótipo de identidade visual para o Banco Itaú**, utilizando a plataforma de design Figma. O foco está na criação de uma experiência moderna e consistente, explorando a estética da marca, usabilidade e aplicação em ambientes digitais.
+Este projeto consiste no desenvolvimento de um **protótipo experimental de identidade visual para o Banco Itaú**, criado exclusivamente para fins acadêmicos utilizando a plataforma Figma. A proposta busca simular soluções gráficas e de interface com base em estudos de design, sem qualquer vínculo oficial com a instituição.
 
 ---
 
 ## 🔧 Protótipos Desenvolvidos
 
-### Protótipo 1: Redesign da Logomarca
+### Protótipo 1: Logomarca Conceitual
 
 🔗 [Visualizar no Figma](#)
 
-**Objetivo:** Atualizar a logomarca do Itaú com uma proposta mais minimalista e adaptável a diferentes dispositivos.
+**Descrição:** Criação de uma versão alternativa da logomarca do Itaú com foco em simplicidade visual.
 
 ```plaintext
-- Exploração de formas arredondadas e tipografia limpa
-- Preservação da identidade cromática original
-- Testes de aplicação em fundo escuro e claro
+- Tipografia adaptada para maior legibilidade digital
+- Preservação da paleta cromática original
+- Aplicações simuladas em diferentes fundos
 ```
 
 ---
 
-### Protótipo 2: Tela Inicial do App
+### Protótipo 2: Tela Inicial (App)
 
 🔗 [Visualizar no Figma](#)
 
-**Novidade:** Criação de uma nova interface para a tela inicial do aplicativo Itaú, com foco em clareza e navegação simplificada.
+**Descrição:** Protótipo de uma possível tela inicial para um aplicativo bancário fictício com identidade inspirada no Itaú.
 
-**Destaques:**
-
-- Acesso rápido a funcionalidades principais
-- Ícones intuitivos e legibilidade aprimorada
-- Hierarquia visual clara para informações bancárias
+- Organização funcional dos atalhos principais
+- Design focado na experiência mobile
+- Estética alinhada com o branding original
 
 ---
 
@@ -60,63 +58,58 @@ Este projeto tem como objetivo o desenvolvimento de um **protótipo de identidad
 
 🔗 [Visualizar no Figma](#)
 
-**Objetivo:** Prototipar a área de transferências e pagamentos com foco em usabilidade e acessibilidade.
+**Descrição:** Simulação da interface de transferências e pagamentos, buscando clareza e fluidez no fluxo do usuário.
 
-**Destaques:**
-
-- Botões de ação com destaque visual
-- Fluxo de etapas simplificado
-- Design responsivo para mobile e tablet
+- Navegação simples e direta
+- Uso de cores para indicar ações e feedbacks
+- Adaptabilidade responsiva
 
 ---
 
-### Sprint Final: Apresentação Interativa no Figma
+### Sprint Final: Apresentação Navegável
 
 🔗 [Visualizar no Figma](#)
 
 **Resumo:**
 
-- Protótipo navegável com simulação de uso real
-- Inclusão de animações e microinterações
-- Demonstração da identidade visual em diferentes pontos de contato
+- Protótipo interativo com fluxo navegável
+- Simulação de interações básicas
+- Exibição da aplicação da identidade visual em diferentes telas
 
 ---
 
 ## 🧩 Ferramentas Utilizadas
 
-| Ferramenta         | Finalidade                              |
-|--------------------|------------------------------------------|
-| Figma              | Prototipagem e design de interfaces      |
-| Google Fonts       | Tipografia moderna e acessível           |
-| Paleta Itaú        | Cores oficiais da marca                  |
-| Plugins Figma      | Geração de ícones, grids e auto layout   |
-| FigJam             | Organização de ideias e wireframes       |
+| Ferramenta     | Finalidade                          |
+|----------------|--------------------------------------|
+| Figma          | Criação dos protótipos               |
+| FigJam         | Rascunhos e planejamento visual      |
+| Google Fonts   | Tipografia acessível e moderna       |
+| Plugins Figma  | Otimização de grids, ícones e layout |
 
 ---
 
-## 🖼 Screenshots dos Protótipos
+## 🖼 Capturas de Tela
 
-> Imagens das principais telas e elementos desenvolvidos durante o projeto podem ser inseridas aqui para ilustração visual.
+> Espaço reservado para inserir imagens dos protótipos desenvolvidos, se necessário.
 
 ---
 
 ## ✅ Conclusão
 
-Durante o desenvolvimento do protótipo, foi possível consolidar uma proposta de identidade visual que:
+Este projeto demonstrou o processo de concepção de uma **identidade visual fictícia** inspirada no Banco Itaú. Como um exercício de design:
 
-- Respeita os valores e características da marca Itaú;
-- Moderniza a experiência do usuário nos canais digitais;
-- Apresenta soluções visuais acessíveis, responsivas e funcionais;
-- Demonstra como o **design centrado no usuário** pode potencializar a experiência bancária.
+- Aplicou fundamentos de identidade visual e UI/UX;
+- Simulou elementos gráficos e funcionais de um app bancário;
+- Utilizou ferramentas profissionais de prototipagem;
+- Não possui fins comerciais ou associação com a marca real.
 
 ---
 
 ## 🤝 Como Contribuir
 
-Caso queira sugerir melhorias ou explorar novas interfaces:
-
 1. Faça um fork do projeto;
-2. Crie uma branch com sua proposta (`feature/sua-ideia`);
-3. Envie um pull request com suas alterações;
+2. Crie uma branch (`feature/seu-prototipo`);
+3. Envie um pull request com sua proposta.
 
 ---

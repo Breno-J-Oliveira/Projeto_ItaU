@@ -9,14 +9,7 @@
 
 - [Sobre o Projeto](#-sobre-o-projeto)
 - [Protótipos Desenvolvidos](#-protótipos-desenvolvidos)
-  - [Protótipo 1: Logomarca Conceitual](#protótipo-1-logomarca-conceitual)
-  - [Protótipo 2: Tela Inicial (App)](#protótipo-2-tela-inicial-app)
-  - [Protótipo 3: Interface de Transações](#protótipo-3-interface-de-transações)
-  - [Sprint Final: Apresentação Navegável](#sprint-final-apresentação-navegável)
-- [Ferramentas Utilizadas](#-ferramentas-utilizadas)
-- [Capturas de Tela](#-capturas-de-tela)
 - [Conclusão](#-conclusão)
-- [Como Contribuir](#-como-contribuir)
 
 ---
 
@@ -40,36 +33,6 @@ Este projeto consiste no desenvolvimento de um **protótipo experimental de iden
 - Aplicações simuladas em diferentes fundos
 ```
 
----
-
-### Protótipo 2: Tela Inicial (App)
-
-🔗 [Visualizar no Figma](#)
-
-**Descrição:** Protótipo de uma possível tela inicial para um aplicativo bancário fictício com identidade inspirada no Itaú.
-
-- Organização funcional dos atalhos principais
-- Design focado na experiência mobile
-- Estética alinhada com o branding original
-
----
-
-### Protótipo 3: Interface de Transações
-
-🔗 [Visualizar no Figma](#)
-
-**Descrição:** Simulação da interface de transferências e pagamentos, buscando clareza e fluidez no fluxo do usuário.
-
-- Navegação simples e direta
-- Uso de cores para indicar ações e feedbacks
-- Adaptabilidade responsiva
-
----
-
-### Sprint Final: Apresentação Navegável
-
-🔗 [Visualizar no Figma](#)
-
 **Resumo:**
 
 - Protótipo interativo com fluxo navegável
@@ -89,27 +52,13 @@ Este projeto consiste no desenvolvimento de um **protótipo experimental de iden
 
 ---
 
-## 🖼 Capturas de Tela
-
-> Espaço reservado para inserir imagens dos protótipos desenvolvidos, se necessário.
-
----
-
 ## ✅ Conclusão
 
-Este projeto demonstrou o processo de concepção de uma **identidade visual fictícia** inspirada no Banco Itaú. Como um exercício de design:
+Este projeto demonstrou o processo de concepção de uma **identidade visual** inspirada no Banco Itaú. Como um exercício de design:
 
 - Aplicou fundamentos de identidade visual e UI/UX;
 - Simulou elementos gráficos e funcionais de um app bancário;
 - Utilizou ferramentas profissionais de prototipagem;
 - Não possui fins comerciais ou associação com a marca real.
-
----
-
-## 🤝 Como Contribuir
-
-1. Faça um fork do projeto;
-2. Crie uma branch (`feature/seu-prototipo`);
-3. Envie um pull request com sua proposta.
 
 ---
